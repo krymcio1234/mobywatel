@@ -1,12 +1,12 @@
 {
   "photo": "./personal/photo.webp",
   
-  "firstName": "MIKOŁAJ",
-  "lastName": "SUROWIEC",
-  "birthDate": "14.04.2007",
-  "birthDateISO": "2007-04-14",
+  "firstName": "KACPER",
+  "lastName": "SZLACHCIC",
+  "birthDate": "12.01.2008",
+  "birthDateISO": "2008-01-12",
   "birthPlace": "WROCŁAW",
-  "pesel": "07241406211",
+  "pesel": "08211206123",
   "sex": "Mężczyzna",
   "citizenship": "POLSKIE",
   
@@ -18,7 +18,7 @@
   
   "address": {
     "street": "UL. WROCŁAWSKA 43",
-    "city": "55-093 BRZEZIA ŁĄKA",
+    "city": "55-093 KIEŁCZÓW",
     "registrationDate": "2024-01-01"
   },
   
