@@ -1,0 +1,37 @@
+{
+  "photo": "./personal/photo.webp",
+  
+  "firstName": "MIKOŁAJ",
+  "lastName": "SUROWIEC",
+  "birthDate": "14.04.2007",
+  "birthDateISO": "2007-04-14",
+  "birthPlace": "WROCŁAW",
+  "pesel": "07241406211",
+  "sex": "Mężczyzna",
+  "citizenship": "POLSKIE",
+  
+  "maidenName": "PAWLAK",
+  "fatherMaidenName": "PAWLAK",
+  "motherMaidenName": "SZCZEPANIAK",
+  "fatherFirstName": "ŁUKASZ",
+  "motherFirstName": "INGA",
+  
+  "address": {
+    "street": "UL. WROCŁAWSKA 43",
+    "city": "55-093 BRZEZIA ŁĄKA",
+    "registrationDate": "2024-01-01"
+  },
+  
+  "document": {
+    "series": "FDC934852",
+    "issueDate": "2024-01-01",
+    "expiryDate": "2034-01-01",
+    "issuingAuthority": "PREZYDENT MIASTA WROCŁAW"
+  },
+  
+  "mDowod": {
+    "series": "FDC934852",
+    "issueDate": "2024-01-01",
+    "expiryDate": "2034-01-01"
+  }
+}
